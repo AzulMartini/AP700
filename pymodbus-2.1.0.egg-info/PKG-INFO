@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: pymodbus
+Version: 2.1.0
+Summary: A fully featured modbus protocol stack in python
+Home-page: https://github.com/riptideio/pymodbus/
+Author: Galen Collins
+Author-email: bashwork@gmail.com
+Maintainer: dhoomakethu
+Maintainer-email: otlasanju@gmail.com
+License: BSD
+Description: 
+                Pymodbus aims to be a fully implemented modbus protocol stack 
+                implemented using twisted/asyncio/tornado.  
+                Its orignal goal was to allow simulation of thousands of modbus devices
+                on a single machine for monitoring software testing.
+            
+Keywords: modbus,twisted,scada
+Platform: Linux
+Platform: Mac OS X
+Platform: Win
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: X11 Applications :: GTK
+Classifier: Framework :: Twisted
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: Utilities
+Provides-Extra: documents
+Provides-Extra: quality
+Provides-Extra: repl
+Provides-Extra: tornado
+Provides-Extra: twisted
