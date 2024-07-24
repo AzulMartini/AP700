@@ -1,0 +1,15 @@
+<package format="2">
+<name>ap700</name>
+<version>0.0.0</version>
+<description>The ap700 package</description>
+<maintainer email="azulros@todo.todo">azulros</maintainer>
+<license>BSD</license>
+<buildtool_depend>catkin</buildtool_depend>
+<build_depend>rospy</build_depend>
+<build_depend>std_msgs</build_depend>
+<build_export_depend>rospy</build_export_depend>
+<exec_depend>rospy</exec_depend>
+<exec_depend>std_msgs</exec_depend>
+<depend>pymodbus</depend>
+<export> </export>
+</package>
